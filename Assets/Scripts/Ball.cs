@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Ball : MonoBehaviour {
 
-	public float minSpeed = 5;
+	public float minSpeed = 6;
 	public float maxSpeed = 11;
 	public GameObject lightningSphereOne;
 	public GameObject lightningSphereTwo;
