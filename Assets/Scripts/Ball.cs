@@ -4,7 +4,7 @@ using System.Collections;
 public class Ball : MonoBehaviour {
 
 	public float minSpeed = 5;
-	public float maxSpeed = 12;
+	public float maxSpeed = 10;
 	public GameObject lightningSphereOne;
 	public GameObject lightningSphereTwo;
 	public AudioClip[] blipAudio;
